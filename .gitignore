@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Custom
+**/*.bkp
+.vscode/settings.json
